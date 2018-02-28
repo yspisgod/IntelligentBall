@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\messaging_api.js",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\messaging_api.js"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\device_capabilities_api.js",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\device_capabilities_api.js"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\xwalk.pak",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\xwalk.pak"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\contacts_api.js",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\contacts_api.js"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\launch_screen_api.js",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\icudtl.dat",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\config.json",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\res\\raw\\config.json"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\raw\\presentation_api.js",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\raw\\presentation_api.js"
+    }
+]

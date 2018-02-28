@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\two_field_date_picker.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\two_field_date_picker.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\color_picker_advanced_component.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\color_picker_dialog_title.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\date_time_suggestion.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\date_time_suggestion.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\color_picker_dialog_content.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\multi_field_time_picker_dialog.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\autofill_suggestion_item.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\autofill_suggestion_item.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\dropdown_item.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\layout-v17\\validation_message_bubble.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\layout-v17\\validation_message_bubble.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\color_button_background.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bubble.9.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bubble_arrow_up.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\bubble_arrow_up.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\color_picker_advanced_select_handle.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dropdown_popup_background_down.9.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_warning.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\ic_warning.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_share_holo_light.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_search.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\verify_checkmark.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\verify_checkmark.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dropdown_popup_background.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\dropdown_popup_background.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\color_picker_border.xml",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\color_picker_border.xml"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ondemand_overlay.9.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\ondemand_overlay.9.png"
+    },
+    {
+        "merged": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dropdown_popup_background_up.9.png",
+        "source": "E:\\qingciworks\\view\\Build\\android\\PublishProject\\ver20170520163545\\app\\build\\intermediates\\exploded-aar\\ver20170520163545.library_projects\\xwalk_core_library\\unspecified\\res\\drawable\\dropdown_popup_background_up.9.png"
+    }
+]

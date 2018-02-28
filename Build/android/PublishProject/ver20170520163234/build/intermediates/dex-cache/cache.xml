@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\qingciworks\view\Build\android\PublishProject\ver20170520163234\app\build\intermediates\exploded-aar\ver20170520163234.library_projects\xwalk_core_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ce7697a82f87f0a36ea20b83c3352a00b9b72713">
+        <dex dex="E:\qingciworks\view\Build\android\PublishProject\ver20170520163234\app\build\intermediates\pre-dexed\release\ver20170520163234.library_projects-xwalk_core_library-unspecified_96924706535367ab3a3a7b1d1bc1ab400b58d068.jar" />
+    </item>
+    <item
+        jar="E:\qingciworks\view\Build\android\PublishProject\ver20170520163234\app\build\intermediates\exploded-aar\ver20170520163234.library_projects\xwalk_core_library\unspecified\jars\libs\xwalk_core_library_java.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5e7bf82c84e3b17740aa0661ce97f86ae0364db1">
+        <dex dex="E:\qingciworks\view\Build\android\PublishProject\ver20170520163234\app\build\intermediates\pre-dexed\release\xwalk_core_library_java_17ee71dfd6ef97f417f417bb1472127d208bbe77.jar" />
+    </item>
+
+</items>
